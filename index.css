@@ -953,6 +953,9 @@ form button {
     .h1{
         font-size: 35px;
     }
+    h1{
+        font-size: 53px
+    }
 
     #navlist {
         background-color: #E3E6F3;
